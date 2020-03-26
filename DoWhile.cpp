@@ -40,7 +40,7 @@ int main() {
 				cin >> y;
 
 			}
-			res = x / y;
+			res = (float)x / y;
 
 			break;
 		default:
