@@ -5,11 +5,10 @@
 #include<fstream>
 using namespace std;
 int main() {
+	
   
   //Q2 calculate the sum of the following series using nested loop
-  
-  
-  int res = 1;
+	int res = 1;
 	int pow = 1;
 	int sum = 1;
 	int index = 1;
@@ -23,6 +22,6 @@ int main() {
 		index++;
 	}
 	cout << sum;
-  return 0;
+  	return 0;
 
 }
