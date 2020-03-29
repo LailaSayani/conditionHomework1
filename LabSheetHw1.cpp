@@ -5,10 +5,11 @@
 #include<fstream>
 using namespace std;
 int main() {
+	
   
   //Q3 task to calculate the sum of all numbers between 2 intervals entered by the user by using (while) loop.
   
-  int n1, n2;
+  	int n1, n2;
 	do {
 		cout << "Let the first number greater than the second number "<< endl;
 		cout << "Enter the first positive number ";
